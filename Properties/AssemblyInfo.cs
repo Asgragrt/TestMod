@@ -1,7 +1,7 @@
 ﻿using System.Reflection;
 using MelonLoader;
-using static Test.Properties.MelonBuildInfo;
-using Main = Test.Main;
+using static WelcomeSurprise.Properties.MelonBuildInfo;
+using Main = WelcomeSurprise.Main;
 
 [assembly: MelonInfo(typeof(Main), ModName, ModVersion, ModAuthor)]
 [assembly: MelonGame("PeroPeroGames", "MuseDash")]

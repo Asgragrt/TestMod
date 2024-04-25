@@ -1,8 +1,8 @@
 ﻿using MelonLoader;
-using Test.Managers;
-using Test.Properties;
+using WelcomeSurprise.Managers;
+using WelcomeSurprise.Properties;
 
-namespace Test;
+namespace WelcomeSurprise;
 
 public class Main : MelonMod
 {

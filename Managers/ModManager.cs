@@ -4,7 +4,7 @@ using MelonLoader;
 using UnityEngine;
 using Random = System.Random;
 
-namespace Test.Managers;
+namespace WelcomeSurprise.Managers;
 
 internal static class ModManager
 {

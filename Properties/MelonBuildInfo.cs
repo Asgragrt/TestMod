@@ -1,8 +1,8 @@
-﻿namespace Test.Properties;
+﻿namespace WelcomeSurprise.Properties;
 
 internal static class MelonBuildInfo
 {
-    internal const string ModName = "Test";
+    internal const string ModName = "WelcomeSurprise";
 
     internal const string ModAuthor = "Asgragrt";
 
