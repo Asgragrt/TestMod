@@ -2,7 +2,7 @@
 
 Skip the welcome sequence.
 
-## ❗Check out my other [mods](https://github.com/Asgragrt#musedash-modding)❗
+## ❗Check out my other [mods](https://github.com/Asgragrt/AsgraMDMods/blob/main/README.md)❗
 
 ## Installation
 
@@ -12,6 +12,6 @@ Skip the welcome sequence.
 
 ### Steps
 
-1. Download the latest release from [releases](https://github.com/Asgragrt/PeroPeroSkip/releases/latest).
-2. Move `PeroPeroSkip.dll` to `${Your muse dash folder}/Mods`.
-3. Enable / Disable the mod from the configuration file found at `${Your muse dash folder}/UserData/PeroPeroSkip.cfg`.
+1. Download the latest release from [releases](https://github.com/Asgragrt/WelcomeSurprise/releases/latest).
+2. Move `WelcomeSurprise.dll` to `${Your muse dash folder}/Mods`.
+3. Yes.
